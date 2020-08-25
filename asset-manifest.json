@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.c80a4e5e.chunk.js",
-    "main.js.map": "/static/js/main.c80a4e5e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
-    "static/css/2.7df41cd5.chunk.css": "/static/css/2.7df41cd5.chunk.css",
-    "static/js/2.ea5a9dba.chunk.js": "/static/js/2.ea5a9dba.chunk.js",
-    "static/js/2.ea5a9dba.chunk.js.map": "/static/js/2.ea5a9dba.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ec5dae02a46113cce1c3f6effcef5dc7.js": "/precache-manifest.ec5dae02a46113cce1c3f6effcef5dc7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.7df41cd5.chunk.css.map": "/static/css/2.7df41cd5.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.ea5a9dba.chunk.js.LICENSE.txt": "/static/js/2.ea5a9dba.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/metalplate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/metalplate/static/js/main.3fec0f77.chunk.js",
+    "main.js.map": "/metalplate/static/js/main.3fec0f77.chunk.js.map",
+    "runtime-main.js": "/metalplate/static/js/runtime-main.e8ac4e80.js",
+    "runtime-main.js.map": "/metalplate/static/js/runtime-main.e8ac4e80.js.map",
+    "static/css/2.fd65931c.chunk.css": "/metalplate/static/css/2.fd65931c.chunk.css",
+    "static/js/2.add4efba.chunk.js": "/metalplate/static/js/2.add4efba.chunk.js",
+    "static/js/2.add4efba.chunk.js.map": "/metalplate/static/js/2.add4efba.chunk.js.map",
+    "index.html": "/metalplate/index.html",
+    "precache-manifest.fc27d70e6bfdf50a12bffdf24989bac9.js": "/metalplate/precache-manifest.fc27d70e6bfdf50a12bffdf24989bac9.js",
+    "service-worker.js": "/metalplate/service-worker.js",
+    "static/css/2.fd65931c.chunk.css.map": "/metalplate/static/css/2.fd65931c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/metalplate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.add4efba.chunk.js.LICENSE.txt": "/metalplate/static/js/2.add4efba.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/metalplate/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b85ec0.js",
-    "static/css/2.7df41cd5.chunk.css",
-    "static/js/2.ea5a9dba.chunk.js",
+    "static/js/runtime-main.e8ac4e80.js",
+    "static/css/2.fd65931c.chunk.css",
+    "static/js/2.add4efba.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c80a4e5e.chunk.js"
+    "static/js/main.3fec0f77.chunk.js"
   ]
 }
