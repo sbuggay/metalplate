@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/metalplate/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/metalplate/static/js/main.3fec0f77.chunk.js",
-    "main.js.map": "/metalplate/static/js/main.3fec0f77.chunk.js.map",
+    "main.js": "/metalplate/static/js/main.bf511ea0.chunk.js",
+    "main.js.map": "/metalplate/static/js/main.bf511ea0.chunk.js.map",
     "runtime-main.js": "/metalplate/static/js/runtime-main.e8ac4e80.js",
     "runtime-main.js.map": "/metalplate/static/js/runtime-main.e8ac4e80.js.map",
     "static/css/2.fd65931c.chunk.css": "/metalplate/static/css/2.fd65931c.chunk.css",
     "static/js/2.add4efba.chunk.js": "/metalplate/static/js/2.add4efba.chunk.js",
     "static/js/2.add4efba.chunk.js.map": "/metalplate/static/js/2.add4efba.chunk.js.map",
     "index.html": "/metalplate/index.html",
-    "precache-manifest.fc27d70e6bfdf50a12bffdf24989bac9.js": "/metalplate/precache-manifest.fc27d70e6bfdf50a12bffdf24989bac9.js",
+    "precache-manifest.b0cc56a7eba07460edebaa1c4d704ce4.js": "/metalplate/precache-manifest.b0cc56a7eba07460edebaa1c4d704ce4.js",
     "service-worker.js": "/metalplate/service-worker.js",
     "static/css/2.fd65931c.chunk.css.map": "/metalplate/static/css/2.fd65931c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/metalplate/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.fd65931c.chunk.css",
     "static/js/2.add4efba.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3fec0f77.chunk.js"
+    "static/js/main.bf511ea0.chunk.js"
   ]
 }
