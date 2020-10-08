@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/metalplate/precache-manifest.b0cc56a7eba07460edebaa1c4d704ce4.js"
+  "/metalplate/precache-manifest.903baed671da41fef3e950762581a2de.js"
 );
 
 self.addEventListener('message', (event) => {
